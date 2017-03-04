@@ -1,0 +1,24 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. 
+Answer the following questions:
+  
+* What new skills have you learned?
+  
+* What has been easy?
+  
+* What has been difficult?
+  
+* How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+
+---
+
+Your response goes here!
+
+*I learned some new html5 tags. I learned relationship between tags (content tree structure). Clearly understood the differences from relative and absolute paths.
+
+*Some tage, like <p> or <span> <h1> were easy for me.
+
+*I had difficult with relative path, because the exersice was not specifing that the image must be on the same level of the index.html. 
+I put it into image folders so the exercise was not correct even tought i was using the image put as relative put (src="image/redwoods_state_park.jpg")
+
+*Yes, i have used the problem solving: asking expert, searching on google
